@@ -1,3 +1,5 @@
+"""XOR Gate implementation with bipolar input and bipolar target using madaline"""
+
 inp=[[-1,-1],[-1,1],[1,-1],[1,1]]
 target=[-1,1,1,-1]
 w11=0.05
