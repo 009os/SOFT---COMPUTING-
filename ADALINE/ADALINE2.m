@@ -1,3 +1,4 @@
+%{Nor Gate implementation with bipolar input and bipolar target using adaline.%}
 x1 = [1 1 -1 -1];
 x2 = [1 -1 1 -1];
 
