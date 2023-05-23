@@ -1,3 +1,7 @@
+%{Create a perceptron with appropriate no. of inputs and outputs.
+    Train it using fixed increment learning algorithm until no change in weights is required. 
+    Output the final weights.%}
+
 lr = 0.01;
 w1 = 0.04;
 w2 = 0.3;
