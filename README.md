@@ -1,4 +1,4 @@
-# SOFT-COMPUTING
+
 # SOFT-COMPUTING
 
 ## Overview
