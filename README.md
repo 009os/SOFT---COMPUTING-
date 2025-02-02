@@ -100,26 +100,6 @@ predictions = model.predict(X_test)
 - Performance optimization techniques
 - Visualization tools for results analysis
 
-## Documentation
-- [Getting Started Guide](docs/getting_started.md)
-- [API Reference](docs/api_reference.md)
-- [Examples Gallery](docs/examples.md)
-- [Contributing Guidelines](docs/contributing.md)
-
-## Contributing
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Authors
-- Your Name - Initial work - [YourGithub](https://github.com/yourusername)
 
 ## Acknowledgments
 - Dr. Lotfi A. Zadeh for fuzzy logic foundations
@@ -127,14 +107,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - John Holland for genetic algorithms
 - All contributors and maintainers
 
-## Citation
-If you use this project in your research, please cite:
-```
-@software{soft_computing_2024,
-  author = {Your Name},
-  title = {Soft Computing Implementations},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/your-username/soft-computing}
-}
-```
